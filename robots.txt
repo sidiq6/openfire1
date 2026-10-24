@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /backoffice-openfire/
+Disallow: /api/admin.php
+Disallow: /app/
+Disallow: /database/
+Disallow: /storage/
